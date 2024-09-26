@@ -1,0 +1,35 @@
+.bgr {
+    background-color: #283149;
+    color: #DBEDF3
+}
+.skill {
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    border-radius: 15px;
+    border: 5px solid black;
+}
+.a-class {
+    text-decoration: none;
+    margin-left: 10px;
+    color: white;
+}
+
+.a-footer {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.color-bg {
+    background-color: #124076;
+}
+.color-text {
+    color : #FFC374;
+}
+.color-heading {
+    color : #F9E897;
+}
+.color-cards {
+    background-color: #F9E897;
+}
